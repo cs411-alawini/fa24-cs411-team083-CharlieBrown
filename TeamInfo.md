@@ -5,7 +5,7 @@
 |   Info      |        Description     |
 | ----------- | ---------------------- |
 | TeamID      |        Team-083        |
-| TeamName    |      CharlieBrown      |
+| TeamName    |       Scentastic       |
 | Captain     |    Richie Zachariah    |
 | Captain     |  richiez2@illinois.edu |
 | Member1     |    Rithvik Kopparapu   |
